@@ -32,10 +32,10 @@ export default {
 <template>
   <div class="container">
     <div style="display: flex; flex-direction: column;">
-      <div style="display: flex" class="content">
+      <!-- <div style="display: flex" class="content">
         <h1>{{ msg }}</h1>
         <button type="button" @click="count++">count is: {{ count }}</button>
-      </div>
+      </div> -->
       <div class="content">
         <Button v-for="(button, index) in buttonList" :key="index" :button-props="button" class="btn" :click-fn="() => clickFn('')" />
         <!-- <Button class="btn" :button-props='{type:"hollow", label:"Hollow Button", size:"s"}' :click-fn="() => clickFn('')" /> -->
