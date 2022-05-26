@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/Rupnesh/ComponentLibrary/compare/v0.0.6...v0.0.7) (2022-05-26)
+
+
+### Features
+
+* comment added ([c44d78a](https://github.com/Rupnesh/ComponentLibrary/commit/c44d78a97de5c46b9d6b7bb0524825e6d805266b))
+* comment added1 ([a3548e6](https://github.com/Rupnesh/ComponentLibrary/commit/a3548e6bc3c65b97728b1a12d3ab13d4ef499841))
+* comment added2 ([f8e7865](https://github.com/Rupnesh/ComponentLibrary/commit/f8e78655bbcfe5350e490814a313ff1ee2fac597))
+* comment added3 ([6f84234](https://github.com/Rupnesh/ComponentLibrary/commit/6f84234336d5aa886a8ce0feef89b3343ebfffc7))
+
 ### [0.0.6](https://github.com/Rupnesh/ComponentLibrary/compare/v0.0.5...v0.0.6) (2022-05-26)
 
 
