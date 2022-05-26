@@ -42,10 +42,6 @@ export default {
         <!-- <Button class="btn" type="hollow" label="Hollow Button" size="s" :click-fn="() => clickFn('')" />
         <Button class="btn" type="rounded" label="Rounded Button" size="m" :click-fn="() => clickFn('')" />
         <Button class="btn" type="filled" label="Filled Button" size="l" :click-fn="() => clickFn('')" /> -->
-        <p>Hello</p>
-        <p>Hello1</p>
-        <p>Hello2</p>
-        <p>Hello3</p>
       </div>
     </div>
   </div>
