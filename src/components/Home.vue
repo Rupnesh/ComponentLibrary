@@ -44,6 +44,7 @@ export default {
         <Button class="btn" type="filled" label="Filled Button" size="l" :click-fn="() => clickFn('')" /> -->
         <p>Hello</p>
         <p>Hello1</p>
+        <p>Hello2</p>
       </div>
     </div>
   </div>
