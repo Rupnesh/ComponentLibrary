@@ -34,7 +34,7 @@ export default {
     <div style="display: flex; flex-direction: column;">
       <div style="display: flex" class="content">
         <h1>{{ msg }}</h1>
-        <button type="button" @click="count++">count is: {{ count }}</button>
+        <button type="button" @click="count++">counter is: {{ count }}</button>
       </div>
       <div class="content">
         <Button v-for="(button, index) in buttonList" :key="index" :button-props="button" class="btn" :click-fn="() => clickFn('')" />
